@@ -89,7 +89,7 @@ body .container {
   }
 }
 
-// Medium devices (tablets, 768px and up)
+/* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   .pp {
     font-size: 40px;
@@ -100,7 +100,7 @@ body .container {
   }
 }
 
-// Large devices (desktops, 992px and up)
+/*  Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
   .pp {
     font-size: 40px;
@@ -111,7 +111,7 @@ body .container {
   }
 }
 
-// X-Large devices (large desktops, 1200px and up)
+/* X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .pp {
     font-size: 40px;
